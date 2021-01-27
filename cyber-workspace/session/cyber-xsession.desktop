@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=cyber-session
+TryExec=cyber-session
+Name=Cyber Desktop
+Keywords=session
+Comment=session

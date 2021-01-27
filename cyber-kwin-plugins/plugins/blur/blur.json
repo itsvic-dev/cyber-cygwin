@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "rekols@foxmail.com",
+                "Name": "rekols"
+            }
+        ],
+        "Description": "Blur effect",
+        "EnabledByDefault": true,
+        "Id": "com.panda.blur",
+        "Name": "BlurWindow",
+        "ServiceTypes": [
+            "KWin/Effect"
+        ],
+        "org.kde.kwin.effect": {
+            "exclusiveGroup": "appearance"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/DockItem.qml</file>
+        <file>qml/AppItem.qml</file>
+        <file>svg/launcher.svg</file>
+    </qresource>
+</RCC>

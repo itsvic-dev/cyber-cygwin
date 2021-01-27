@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Audio Recorder
+Exec=cyber-recorder
+Icon=audio-recorder
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;

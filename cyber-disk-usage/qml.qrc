@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/DiskItem.qml</file>
+        <file>images/drive-partition.svg</file>
+    </qresource>
+</RCC>

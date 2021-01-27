@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/SideBar.qml</file>
+        <file>qml/SidebarItem.qml</file>
+        <file>qml/FolderPage.qml</file>
+        <file>qml/FolderListView.qml</file>
+        <file>qml/PathBar.qml</file>
+        <file>qml/FolderMenu.qml</file>
+        <file>qml/FolderItemMenu.qml</file>
+        <file>qml/FolderListDelegate.qml</file>
+        <file>qml/ExecPromptDialog.qml</file>
+        <file>images/dark/go-next.svg</file>
+        <file>images/dark/go-previous.svg</file>
+        <file>images/dark/grid.svg</file>
+        <file>images/dark/list.svg</file>
+        <file>images/light/go-next.svg</file>
+        <file>images/light/go-previous.svg</file>
+        <file>images/light/grid.svg</file>
+        <file>images/light/list.svg</file>
+        <file>qml/IconButton.qml</file>
+        <file>images/folder-download.svg</file>
+        <file>images/folder-home.svg</file>
+        <file>images/folder-music.svg</file>
+        <file>images/folder-picture.svg</file>
+        <file>images/folder-video.svg</file>
+        <file>images/folder-document.svg</file>
+        <file>qml/GlobalSettings.qml</file>
+        <file>qml/FolderIconView.qml</file>
+        <file>qml/FolderIconDelegate.qml</file>
+    </qresource>
+</RCC>

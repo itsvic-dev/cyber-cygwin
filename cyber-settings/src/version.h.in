@@ -1,0 +1,6 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+#define SETTINGS_VERSION "r@COMMIT_COUNT@.@COMMIT_HASH@"
+
+#endif

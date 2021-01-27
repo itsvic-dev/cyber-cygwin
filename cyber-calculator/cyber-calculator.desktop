@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Calculator
+Exec=cyber-calculator
+Icon=calculator
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Calculator;

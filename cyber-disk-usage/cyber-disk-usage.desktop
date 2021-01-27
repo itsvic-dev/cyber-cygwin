@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Disk Usage
+Exec=cyber-disk-usage
+Icon=drive-removable-media
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;

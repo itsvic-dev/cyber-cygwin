@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/RecordPage.qml</file>
+        <file>qml/Visualization.qml</file>
+        <file>qml/HomePage.qml</file>
+        <file>images/recorder-dark.svg</file>
+        <file>images/recorder-light.svg</file>
+        <file>images/stop-light.svg</file>
+        <file>images/stop-dark.svg</file>
+        <file>images/pause-dark.svg</file>
+        <file>images/pause-light.svg</file>
+        <file>images/start-dark.svg</file>
+        <file>images/start-light.svg</file>
+        <file>qml/IconButton.qml</file>
+        <file>images/delete.svg</file>
+    </qresource>
+</RCC>

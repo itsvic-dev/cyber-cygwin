@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=File Manager
+GenericName=File Manager
+Comment=Cyber File Manager
+Exec=cyber-fm %U
+MimeType=inode/directory;
+Icon=file-system-manager
+Categories=FileManager;Utility;Core;Qt;
+StartupNotify=true
